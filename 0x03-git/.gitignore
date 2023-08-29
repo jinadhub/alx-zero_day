@@ -1,5 +1,5 @@
 # -*- mode: gitignore; _*_
-*~
+*~$
 \#*\#
 /.emacs.desktop
 ./emacs.desktop.lock
